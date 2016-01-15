@@ -9,6 +9,7 @@
   "author": "Gosh",
   "license": "ISC",
   "dependencies": {
-    "node-telegram-bot": "^0.1.6"
+    "node-telegram-bot": "^0.1.6",
+    "request": "^2.67.0"
   }
 }
