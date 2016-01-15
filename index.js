@@ -69,7 +69,7 @@ function usuarioCodeivate(usuario,funcion){
 }
 
 function verificaCodeivate(body){
-    if (typeof body.programming_now != 'undefined'){
+    if (typeof body != 'undefined'){
         var programming_now = body.programming_now;
         var current_language = body.current_language;
 
