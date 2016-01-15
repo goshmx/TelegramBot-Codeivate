@@ -1,0 +1,14 @@
+{
+  "name": "telegramBot-codeivate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gosh",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot": "^0.1.6"
+  }
+}
